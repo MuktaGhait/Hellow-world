@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: aqua;
+}
+.box{
+    height: 50%;
+    width: 50%;
+    background-color: pink;
+    margin-top: 300px;
+    margin-left: 300px;
+    padding: 30px;
+}
